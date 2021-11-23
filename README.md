@@ -5,6 +5,7 @@
 
 ## Features
 
+* **No longer NoPixel Inspired**
 * New Look
 * Item crafting
 * Weapon attachment crafting
